@@ -24,7 +24,25 @@ Human Protein Atlas evidence shows GCG/glucagon expression associated with pancr
 
 ## Receptor and Receiver Cell
 
-*To be investigated using OmniPath and Human Protein Atlas.*
+**Ligand:** Glucagon (GCG)
+
+**Receptor:** Glucagon receptor (GCGR)
+
+**Receiver cell:** Hepatocyte
+
+**Signaling context:** Blood glucose regulation and glucose homeostasis
+
+OmniPath shows an interaction from GCG to GCGR, supporting GCGR as a candidate receptor for glucagon.
+
+The Human Protein Atlas shows GCGR as tissue enriched in the liver and associated with hepatocytes, supporting hepatocytes as a biologically reasonable receiver cell.
+
+### Part C Checkpoint
+
+The pancreatic alpha cell produces glucagon, which can signal through the glucagon receptor (GCGR) on hepatocytes in the context of blood glucose regulation and glucose homeostasis.
+
+![OmniPath GCG-GCGR evidence](figures/02_omnipath_evidence.png)
+
+![GCGR receiver-cell evidence](figures/03_receiver_cell_evidence.png)
 
 ## Signaling Network
 
