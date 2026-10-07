@@ -56,6 +56,14 @@ A relevant enriched pathway was **Reactome – Glucagon-type ligand receptors** 
 
 Another relevant pathway was **Reactome – Glucagon signaling in metabolic regulation** (9 of 33 proteins; strength = 2.65; FDR = 1.64 × 10⁻²⁰).
 
+### Relevant Proteins in the STRING Network
+
+Four proteins were identified as particularly relevant to receptor-associated signaling: **GNAS, GNAQ, GNB1, and GNB2**.
+
+**GNAS** is particularly relevant because STRING describes it as functioning downstream of GPCRs and activating adenylyl cyclase, which increases cAMP. **GNAQ** is a G-protein alpha subunit involved in transmembrane signaling. **GNB1** and **GNB2** are G-protein beta subunits involved in G-protein signaling and effector interactions.
+
+Together, these proteins provide a plausible receptor-associated signaling connection between GCGR activation and downstream cellular responses. However, STRING associations do not by themselves establish a direct or complete signaling sequence.
+
 ## Experimentally Supported Interaction
 
 *To be investigated using IntAct.*
