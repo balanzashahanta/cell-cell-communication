@@ -42,11 +42,19 @@ The pancreatic alpha cell produces glucagon, which can signal through the glucag
 
 ![OmniPath GCG-GCGR evidence](figures/02_omnipath_evidence.png)
 
-![GCGR receiver-cell evidence](figures/03_receiver_cell_evidence.png)
+## STRING Network Interpretation
 
-## Signaling Network
+A STRING protein-association network was generated using Homo sapiens with GCGR (glucagon receptor) as the starting receptor. The network contained approximately 12 proteins, including GCG, GNB1, GNB2, GNB3, GNB4, GNB5, GNAS, GNAQ, and GNG13.
 
-*To be investigated using STRING.*
+The network shows functional associations between GCGR and several G-protein-related proteins. These proteins may help connect receptor activation to downstream cellular responses. However, STRING edges represent functional associations and do not necessarily indicate direct physical binding or a confirmed linear signaling pathway.
+
+![STRING network](figures/03_string_network.png)
+
+### Functional Enrichment
+
+A relevant enriched pathway was **Reactome – Glucagon-type ligand receptors** (10 of 33 proteins; strength = 2.73; FDR = 2.14 × 10⁻²³).
+
+Another relevant pathway was **Reactome – Glucagon signaling in metabolic regulation** (9 of 33 proteins; strength = 2.65; FDR = 1.64 × 10⁻²⁰).
 
 ## Experimentally Supported Interaction
 
