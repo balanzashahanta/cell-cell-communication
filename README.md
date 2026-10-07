@@ -64,9 +64,15 @@ Four proteins were identified as particularly relevant to receptor-associated si
 
 Together, these proteins provide a plausible receptor-associated signaling connection between GCGR activation and downstream cellular responses. However, STRING associations do not by themselves establish a direct or complete signaling sequence.
 
-## Experimentally Supported Interaction
+## IntAct Validation
 
-*To be investigated using IntAct.*
+An experimentally supported interaction between the glucagon receptor (**GCGR**, UniProt P47871) and G-protein beta-1 (**GNB1**, UniProt P62873) was identified in IntAct.
+
+The IntAct record lists **Homo sapiens** for both interacting proteins, with the interaction detected **in vitro** using **3D electron microscopy (3d-em)**. The interaction is classified by IntAct as a **physical association**. The associated publication is **PMID 32371397**, and the IntAct interaction accession is **EBI-26869098**.
+
+This evidence supports a **direct physical association** between GCGR and GNB1 in the experimentally studied complex. It provides experimental support for the receptor-associated G-protein component of the proposed signaling model. However, this interaction record does not by itself establish the complete downstream signaling sequence or prove that every step occurs specifically in hepatocytes.
+
+![IntAct GCGR-GNB1 evidence](figures/04_intact_evidence.png)
 
 ## Final Cell-to-Cell Communication Model
 
